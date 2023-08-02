@@ -11,9 +11,9 @@
 - 💤 Enjoys animals, nature, and cycling.
 - 🤝 Embracing constant growth in the tech world.
 - 💫 Let's create together!
-
-- ![kiarasihag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarasihag&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarasihag&layout=compact&theme=tokyonight)](https://github.com/kiarasihag)
+  
+![kiarasihag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarasihag&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarasihag&layout=compact&theme=radical)](https://github.com/kiarasihag)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kiarasihag)
 
