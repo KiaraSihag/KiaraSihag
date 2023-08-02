@@ -7,7 +7,7 @@
 - 🧠 Head-Coordinator of AIEC|at IITM.
 - 🤖 Ask me about **Java, JS, React, MERN**
 - 💖 Open to collaboration  **kiarawork3@gmail.com**
-- 👩‍🚀 Fun fact **I love cycling**
+- 👩‍🚀 Fun fact **I love using AI Tools, AI & cycling**
 - 💤 Enjoys animals, nature, and cycling.
 - 🤝 Embracing constant growth in the tech world.
 - 💫 Let's create together!
