@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Sihag</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/side1-img.jpg">
+<img align="right" alt="coding" width="370" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/side1-img.jpg">
 
 - 🧠 Head-Coordinator of AIEC|at IITM.
 - 🤖 Ask me about **Java, JS, React, MERN**
