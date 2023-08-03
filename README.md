@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/khushi-sihag-a67202218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khushi-sihag-a67202218" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushi-sihag-a67202218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-sihag-a67202218/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sihagkiara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sihagkiara/" height="30" width="40" /></a>
 <a href="https://leetcode.com/kiarasihag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kiarasihag/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kiara0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kiara0" height="30" width="40" /></a>
