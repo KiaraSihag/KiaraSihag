@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/side1-img.jpg">
 
-- 🧠 Head-Coordinator of AIEC | at IITM.
+- 🧠 President of AIEC | at IITM.
 - 🤖 Ask me about **Java, JS, React, MERN**
 - 💖 Open to collaboration  **kiarawork3@gmail.com**
 - 👩‍🚀 Fun fact **I love using AI Tools, AI & cycling**
