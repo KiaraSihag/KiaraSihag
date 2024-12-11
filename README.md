@@ -6,8 +6,8 @@
 
 - 🧠 Young Achiever Awardee @ International Conference'24
 - 🗺️ Selected for World Conference'24 | youngest delegate.
-- ☣✈︎ Lead - Drone Club
 - 🧠 Former President - AIEC@IITM.
+- ☣✈︎ Lead - Drone Club
 - 🤖 Ask me about **Java, JS, React, MERN**
 - 💖 Open to collaboration  **kiarawork3@gmail.com**
 - 👩‍🚀 Fun fact **I love using AI Tools, AI & cycling**
