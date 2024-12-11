@@ -1,10 +1,10 @@
 <img align="top" alt="banner" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/Github-banner.png">
 
 <h1 align="center">Hi 👋, I'm Khushi Sihag</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer & Instructional Designer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/side1-img.jpg">
 
-- 🧠 President of AIEC | at IITM.
+- 🧠 Former President - AIEC@IITM.
 - 🤖 Ask me about **Java, JS, React, MERN**
 - 💖 Open to collaboration  **kiarawork3@gmail.com**
 - 👩‍🚀 Fun fact **I love using AI Tools, AI & cycling**
