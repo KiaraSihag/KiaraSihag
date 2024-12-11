@@ -4,6 +4,9 @@
 <h3 align="center">A passionate full-stack developer & Instructional Designer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/side1-img.jpg">
 
+- 🧠 Young Achiever Awardee @ International Conference'24
+- 🗺️ Selected for World Conference'24 | youngest delegate.
+- ☣✈︎ Lead - Drone Club
 - 🧠 Former President - AIEC@IITM.
 - 🤖 Ask me about **Java, JS, React, MERN**
 - 💖 Open to collaboration  **kiarawork3@gmail.com**
