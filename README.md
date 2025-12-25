@@ -1,4 +1,4 @@
-<img align="top" alt="banner" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/Github-banner.png">
+<img align="top" alt="banner" src="https://github.com/KiaraSihag/KiaraSihag/blob/main/linkdin.png">
 
 <h1 align="center">Hi 👋, I'm Khushi Sihag</h1>
 <h3 align="center">A passionate full-stack developer & Instructional Designer from India</h3>
